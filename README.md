@@ -1,3 +1,5 @@
+# Initial Change
+
 # Hands-On AI Image Processing with Python
 This is the repository for the LinkedIn Learning course `Hands-On AI Image Processing with Python`. The full course is available from [LinkedIn Learning][lil-course-url].
 
